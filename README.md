@@ -1,4 +1,4 @@
-# GitHub Actions deploy Flask to AWS
+# GitHub Actions deploy App to AWS
 
 
 
