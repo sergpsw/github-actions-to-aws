@@ -1,11 +1,11 @@
 #---------------------------------------------------------------------
-# GitHub Action Workflow to Deploy Flask App to AWS
+# GitHub Action Workflow to Deploy App to AWS
 # Version      Date        Info
 # 1.0          2019        Initial Version
 #---------------------------------------------------------------------
 name: CI-CD-Pipeline-to-AWS
 env:
-  ECR_REPOSITORY_NAME : "flask-application"
+  ECR_REPOSITORY_NAME : "my-application"
   AWS_REGION_NAME           : "eu-central-1"
 
 on: 
