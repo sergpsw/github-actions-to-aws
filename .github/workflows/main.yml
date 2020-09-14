@@ -6,7 +6,7 @@
 name: CI-CD-Pipeline-to-AWS
 env:
   ECR_REPOSITORY_NAME : "my-application"
-  AWS_REGION_NAME           : "eu-central-1"
+  AWS_REGION_NAME     : "eu-central-1"
 
 on: 
   push:
